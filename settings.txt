@@ -1,0 +1,14 @@
+norm_names=lon,lat,medv,crim,zn,indus,nox,rm,age,dis,ptratio
+cat_names=chas
+database=postgres
+host=localhost
+user=postgres
+password=postgres
+port=5432
+source_schema=public
+source_table=boston
+target_schema=public
+target_table=boston_processed
+horizon=3
+categorical_threshold=6
+fill_strategy=mode
