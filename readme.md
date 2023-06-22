@@ -1,0 +1,1 @@
+Ссылка на стенд: https://drive.google.com/file/d/1gK1Ixq5NBcndlXmmR3cjkP2z3OVmsQ3j/view?usp=sharing
